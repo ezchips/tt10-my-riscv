@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+32-bit RISC-V CPU designed with TL-Verilog
 
 ## How to test
 
-Explain how to use your project
+Tested with Makerchip simulation
 
 ## External hardware
 
