@@ -10,7 +10,7 @@
    use(m5-1.0)  // See M5 docs in Makerchip IDE Learn menu.
 
    // ---SETTINGS---
-   var(my_design, tt_um_example)  /// Change tt_um_example to tt_um_<your-github-username>_<name-of-your-project>. (See README.md.)
+   var(my_design, tt_um_ezchips_myriscv)  /// Change tt_um_example to tt_um_<your-github-username>_<name-of-your-project>. (See README.md.)
    var(target, TT10) /// Use "FPGA" for TT03 Demo Boards (without bidirectional I/Os).
    var(in_fpga, 1)   /// 1 to include the demo board visualization. (Note: Logic will be under /fpga_pins/fpga.)
    var(debounce_inputs, 0)
